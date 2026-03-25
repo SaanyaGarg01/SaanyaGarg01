@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saanya Garg</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Building Impactful Tech 🚀</h3>
-
+![Profile Views](https://komarev.com/ghpvc/?username=SaanyaGarg01&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/SaanyaGarg01?label=Followers)
 ---
 
 🌟 **About Me**
