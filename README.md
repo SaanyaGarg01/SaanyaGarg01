@@ -1,4 +1,4 @@
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000006ac71fa8e575fbb2e73a214&ts=492906&p=fs&cid=1&sig=e9f15abebfd31ae0a548a36c141ba3d3dade70216587eebbe34f8783cfdd67d2&v=0" alt="banner" width="100%" />
+<img src="my bio.png" alt="banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Saanya Garg</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Building Impactful Tech 🚀</h3>
