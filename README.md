@@ -66,23 +66,9 @@
 </p>
 
 ---
-
-## 👩‍💻 Who Am I?
-
-```yaml
-Name: Saanya Garg
-Role: Full Stack Developer
-University: VIT Bhopal
-CGPA: 9.18
-
-Experience:
-  - Full Stack Developer Intern @ AmasQIS.ai
-  - Cyber Security Intern @ MP Police
-
----
-
 🏆 Achievements (Animated Badges)
 <p align="center"> <img src="https://img.shields.io/badge/Top%200.5%25-Samsung%20Solve%20for%20Tomorrow-ff69b4?style=for-the-badge"/> <img src="https://img.shields.io/badge/3rd%20Place-MP%20Police%20Hackathon-8A2BE2?style=for-the-badge"/> </p>
+
 
 # 💡 Project Highlights
 
