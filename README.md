@@ -33,32 +33,54 @@
   <img src="https://komarev.com/ghpvc/?username=SaanyaGarg01&label=Profile%20Views&color=ff69b4&style=flat"/>
 
 
-<table>
-<tr>
-<td width="50%">
+---
 
-🔥 LaadliBachao  
-AI-powered safety & reporting app  
+# 🚀 Featured Projects
 
-</td>
+<p align="center">
 
-<td width="50%">
-<img src="https://via.placeholder.com/400x200.png?text=LaadliBachao+Project"/>
-</td>
-</tr>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaanyaGarg01&repo=LaadliBachao&theme=radical" />
+</a>
 
-<tr>
-<td width="50%">
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaanyaGarg01&repo=Mahila&theme=radical" />
+</a>
 
-👩‍💼 Mahila  
-Women entrepreneurship platform  
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaanyaGarg01&repo=Cyber-Tales&theme=radical" />
+</a>
 
-</td>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaanyaGarg01&repo=Garg-Associates&theme=radical" />
+</a>
 
-<td width="50%">
-<img src="https://via.placeholder.com/400x200.png?text=Mahila+Project"/>
-</td>
-</tr>
-</table>
 </p>
 
+---
+
+# 💡 Project Highlights
+
+### 🔥 LaadliBachao  
+🚺 AI-powered safety & reporting platform  
+⚙️ Flutter • Node.js • MongoDB • AI  
+
+---
+
+### 👩‍💼 Mahila  
+💼 Women entrepreneurship ecosystem  
+⚙️ React • Node.js • Cloud  
+
+---
+
+### 🔐 Cyber Tales  
+🛡️ Cybersecurity awareness platform  
+⚙️ Web • Security • Awareness  
+
+---
+
+### ⚖️ Garg Associates  
+📜 Legal services platform  
+⚙️ Full Stack Web  
+
+---
