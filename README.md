@@ -59,6 +59,30 @@
 
 ---
 
+# 💫 About Me (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saanya+Garg+👋;Full+Stack+Developer+🚀;AI+%7C+Cybersecurity+Enthusiast+🤖;Building+Impactful+Tech+💡" />
+</p>
+
+---
+
+## 👩‍💻 Who Am I?
+
+```yaml
+Name: Saanya Garg
+Role: Full Stack Developer
+University: VIT Bhopal
+CGPA: 9.18
+
+Experience:
+  - Full Stack Developer Intern @ AmasQIS.ai
+  - Cyber Security Intern @ MP Police
+
+
+🏆 Achievements (Animated Badges)
+<p align="center"> <img src="https://img.shields.io/badge/Top%200.5%25-Samsung%20Solve%20for%20Tomorrow-ff69b4?style=for-the-badge"/> <img src="https://img.shields.io/badge/3rd%20Place-MP%20Police%20Hackathon-8A2BE2?style=for-the-badge"/> </p>
+
 # 💡 Project Highlights
 
 ### 🔥 LaadliBachao  
