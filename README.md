@@ -30,6 +30,8 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaanyaGarg01&label=Profile%20Views&color=ff69b4&style=flat" />
+
+  
   <img src="https://img.shields.io/github/followers/SaanyaGarg01?label=Followers&style=for-the-badge" />
 </p>
 ---
