@@ -59,6 +59,21 @@
 
 ---
 
+## 👩‍💻 Who Am I?
+
+```yaml
+Name: Saanya Garg
+Role: Full Stack Developer
+University: VIT Bhopal
+CGPA: 9.18
+
+Experience:
+  - Full Stack Developer Intern @ AmasQIS.ai
+  - Cyber Security Intern @ MP Police
+
+---
+
+
 # 💫 About Me (Animated)
 
 <p align="center">
