@@ -34,6 +34,7 @@
 </p>
 
 ---
+`
 
 # 💎 About Me
 
@@ -77,13 +78,30 @@ Focus: AI + Scalable Systems + Real-world Impact
 - 🔐 **Cyber Tales** – Cybersecurity awareness platform  
 - ⚖️ **Garg Associates** – Legal services platform  
 
+🧠 Tech Stack 
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,react,next,nodejs,express,fastapi,flutter,dart,mongodb,mysql,aws,gcp,git" /> </p>
 
-📊 **GitHub Stats**
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaanyaGarg01&show_icons=true&theme=radical&border_radius=25" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaanyaGarg01&theme=radical&border_radius=25" height="180"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaanyaGarg01&theme=radical"/> </p>
+
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaanyaGarg01&theme=react-dark&area=true&hide_border=true"/> </p>
+
+🐍 Contribution Snake (Live)
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+
+🌟 Personal Brand
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaanyaGarg01&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaanyaGarg01&theme=radical" />
+
+💡 I build technology that solves real-world problems.
+🚀 Focused on impact, scalability, and innovation.
+🔥 Turning ideas into powerful digital solutions.
+
 </p>
 
+🎯 Fun Zone
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SaanyaGarg01&theme=radical&no-frame=true&row=1&column=6"/> </p>
+<!-- 🌊 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:ff69b4&height=150&section=footer"/> </p> ``
 ---
 
 🌐 **Connect with Me**
